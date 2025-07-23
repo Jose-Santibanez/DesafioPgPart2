@@ -14,3 +14,6 @@ router.put('/:id')
 
 /* ruta para DELETE */
 router.delete('/:id')
+
+
+export default router
